@@ -16,7 +16,7 @@
         <server.admin.password>adminsw</server.admin.password>
         <server.admin.port>4848</server.admin.port>
         <server.domain.name>domain1</server.domain.name>
-        <server.app.name>/G2</server.app.name>
+        <server.app.name>/G3</server.app.name>
 		<!-- end properties for deployment -->
 		<vaadin.version>7.5.5</vaadin.version>
 		<vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
